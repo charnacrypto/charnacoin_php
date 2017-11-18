@@ -5,7 +5,7 @@
 require_once('src/Charnacoin_Payments.php');
 
 /* Edit it with your ip and your port of Charnacoin RPC */
-$charnacoin_daemon = new Charnacoin_Payments('127.0.0.1','2080');
+$charnacoin_daemon = new Charnacoin_Payments('127.0.0.1','18093');
 
 ?>
 <html>
