@@ -11,7 +11,7 @@ $charnacoin_daemon = new Charnacoin_Payments('127.0.0.1','2080');
 <html>
   <body>
     <h1>Example of Charnacoin Library</h1>
-	<p>Welcome to Charnacoin PHP and JSON Library, developed by SerHack! Please report any issue <a href="https://github.com/charnacrypto/charnacoin_php/issues">here</a></p>
+	<p>Welcome to Charnacoin PHP and JSON Library, Please report any issue <a href="https://github.com/charnacrypto/charnacoin_php/issues">here</a></p>
 	<h2>Informations</h2>
     <h3>Charnacoin Address</h3>
     <?php $address = $charnacoin_daemon->address(); 
